@@ -1,0 +1,12 @@
+#Ignore compiled Java class files
+*.class
+/bin/
+/target/
+
+#Ignore IDE settings containing API keys
+.vscode/
+.idea/
+
+#Ignore OS files
+.DS_Store
+Thumbs.db
