@@ -47,6 +47,6 @@ GROK_API_KEY=ai-xxxxxxxxxx
 ## Why Pure Java
 
 - Shows strong core Java fundamentals (HttpClient, Concurrency)
--Proves you can integrate any AI without libraries
+- Proves you can integrate any AI without libraries
 - Easy for interviewer to understand-no magic of Spring Boot
 
